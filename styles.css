@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+}
+
+.btn{
+    width: 9em;
+    height: 3em;
+    border-radius: 30em;
+    font-family: inherit;
+    font-size: 80px;
+    border: none;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    z-index: 1;
+    box-shadow: 6px 6px 12px #b94df0;
+}
+
+.btn::before{
+    content: '';
+    width: 0;
+    height: 3em;
+    border-radius: 30em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(
+        to right, #181688 0%, #982498 50%, #98ff);
+    transition: .8s ease;
+    display: block;
+    z-index: -1;
+}
+
+.btn:hover::before{
+    width: 9em;
+}

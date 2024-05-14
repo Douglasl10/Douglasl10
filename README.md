@@ -11,5 +11,5 @@ Muito prazer, eu sou o Douglas Oliveira, sou um programador Fron end, atualmente
 [![Douglas stats](https://github-readme-stats.vercel.app/api?username=Douglasl10)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-<a hrf="https://www.linkedin.com/in/douglas-oliveira-76a596223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a hrf="https://www.linkedin.com/in/douglas-oliveira-pagina/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="https://www.instagram.com/_douglasl10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">

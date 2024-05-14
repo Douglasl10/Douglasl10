@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Muito prazer, eu sou o Douglas Oliveira, sou um programador Fron end, atualmente estou aprendendo e criando projetos com:
+Muito prazer, eu sou um desenvolvedor front-end de 22 anos, apaixonado por transformar designs criativos em experiências digitais interativas. comecei a mergulhar de cabeça no universo do desenvolvimento web, aprimorando minhas habilidades em HTML, CSS e JavaScript.
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

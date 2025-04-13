@@ -1,8 +1,20 @@
 ### Hi there 👋
 
 Muito prazer, eu sou um desenvolvedor front-end de 22 anos, apaixonado por transformar designs criativos em experiências digitais interativas. comecei a mergulhar de cabeça no universo do desenvolvimento web, aprimorando minhas habilidades.
+
+<h1>Cursos 📖</h1>
+-Desenvolvedor Full Stack
 <br>
-🚀 Tecnologias e Ferramentas
+-Logica de Programação
+<br>
+-Excel
+<br>
+-Inglês
+<br>
+-Espanhol
+<br>
+<br>
+<h1></h1>
 <br>
 <br>
 💡 Linguagens: [JavaScript]
@@ -28,7 +40,7 @@ Muito prazer, eu sou um desenvolvedor front-end de 22 anos, apaixonado por trans
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <br>
 <br>
-[![Douglas stats](https://github-readme-stats.vercel.app/api?username=Douglasl10)](https://github.com/anuraghazra/github-readme-stats)
+[![Douglas stats](https://github-readme-stats.vercel.app/api?username=Douglasl10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <a href="https://www.linkedin.com/in/douglas-oliveira-pagina/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

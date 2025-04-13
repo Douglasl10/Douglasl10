@@ -16,6 +16,7 @@ Muito prazer, eu sou um desenvolvedor front-end de 22 anos, apaixonado por trans
 <br>
 <h1></h1>
 <br>
+<h1>🚀 Tecnologias e Habilidades </h1>
 <br>
 💡 Linguagens: [JavaScript]
 <br>
@@ -40,9 +41,10 @@ Muito prazer, eu sou um desenvolvedor front-end de 22 anos, apaixonado por trans
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <br>
 <br>
-[![Douglas stats](https://github-readme-stats.vercel.app/api?username=Douglasl10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Douglasl10&show_icons=true&theme=radical"/>
 <br>
 <br>
+<h1>Contatos</h1>
 <a href="https://www.linkedin.com/in/douglas-oliveira-pagina/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="https://www.instagram.com/_douglasl10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://douglas-portifolio.com.br/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdouglas-portifolio.com.br%2F"></a></a>
